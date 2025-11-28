@@ -29,7 +29,7 @@ ul{
 }
 ul li{
 
-background-color: #e3c5c5;
+background-color: #f0d6d6;
 margin: 5px 0;
 padding: 10px;
 border-radius: 5px;
@@ -84,7 +84,7 @@ cursor: pointer;
 }
 
 button{
-background-color:#994f6f;
+background-color:#993030;
 }
 /*enlaces*/
 a{color: #841515;
