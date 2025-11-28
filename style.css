@@ -73,7 +73,7 @@ border: 1px solid #ccc;
 }
 button{
 
-background-color:#4caf50;
+background-color:#871818;
 
 color: white;
 
@@ -84,5 +84,13 @@ cursor: pointer;
 }
 
 button{
-background-color:#45a049;
+background-color:#994f6f;
 }
+/*enlaces*/
+a{color: #841515;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+
